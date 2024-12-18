@@ -1,0 +1,3 @@
+Item: Laptop, Price: $1200
+Item: Mouse, Price: $25
+Total: $1225
